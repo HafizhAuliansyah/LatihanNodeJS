@@ -1,5 +1,15 @@
 {
   "dependencies": {
+    "express": "^4.16.4",
     "request": "^2.88.0"
-  }
+  },
+  "name": "web-server-app",
+  "version": "1.0.0",
+  "description": "Section 7 of NodeJS Study",
+  "main": "lesson2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "author": "",
+  "license": "ISC"
 }
